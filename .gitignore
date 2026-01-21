@@ -1,0 +1,21 @@
+# Node
+node_modules/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# ML / YOLO
+runs/
+*.pt
+
+# Data
+datasets/
+
+# Images (optional)
+*.jpg
+*.png
+
+# OS
+.DS_Store
