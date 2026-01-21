@@ -235,3 +235,5 @@ KrishiSarthi AI successfully demonstrates the application of Artificial Intellig
 The layered system architecture ensures modularity, maintainability, and future extensibility. Core functionalities such as soil type classification, nutrient prediction, and real-time wildlife detection highlight the effectiveness of AI-driven decision support in farming. Integration with external weather and market APIs further enhances the practical relevance of the system by enabling farmers to make informed and timely decisions.
 
 Overall, KrishiSarthi AI serves as a strong foundation for smart and precision agriculture. The project has the potential to reduce crop losses, optimize resource usage, and improve agricultural productivity. With future enhancements such as multilingual support, mobile application deployment, and real-time sensor integration, KrishiSarthi AI can evolve into a comprehensive and impactful solution for sustainable agriculture.
+#   K r i s h i S a r t h i - A I  
+ 
