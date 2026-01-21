@@ -237,4 +237,5 @@ The layered system architecture ensures modularity, maintainability, and future 
 Overall, KrishiSarthi AI serves as a strong foundation for smart and precision agriculture. The project has the potential to reduce crop losses, optimize resource usage, and improve agricultural productivity. With future enhancements such as multilingual support, mobile application deployment, and real-time sensor integration, KrishiSarthi AI can evolve into a comprehensive and impactful solution for sustainable agriculture.
 #   K r i s h i S a r t h i - A I  
  #   K r i s h i S a r t h i - A I  
+ #   K r i s h i S a r t h i - A I  
  
