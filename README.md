@@ -241,4 +241,5 @@ Overall, KrishiSarthi AI serves as a strong foundation for smart and precision a
  #   K r i s h i S a r t h i - A I  
  #   K r i s h i S a r t h i   A I  
  #   K r i s h i S a r t h i - A I  
+ #   K r i s h i S a r t h i - A I  
  
