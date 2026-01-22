@@ -2,11 +2,15 @@
 
 This is a code bundle for the **Eco-Themed Farming Platform**. The original project is available at: [Figma Design Link](https://www.figma.com/design/sfoBok2mv3LvibIiv5T3Je/Eco-Themed-Farming-Platform)
 
-## 🚀 Running the Code
+##  Running the Code
 
 1. **Install Dependencies:**
    ```bash
    npm i
+
+   npm run dev
+
+   
  # Eco-Themed Farming Platform: KrishiSarthi AI
 
 ## ABSTRACT
