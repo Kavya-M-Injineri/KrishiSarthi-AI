@@ -1,4 +1,4 @@
- Eco-Themed Farming Platform
+# Eco-Themed Farming Platform
 
 
   This is a code bundle for Eco-Themed Farming Platform. The original project is available at https://www.figma.com/design/sfoBok2mv3LvibIiv5T3Je/Eco-Themed-Farming-Platform.
@@ -10,18 +10,18 @@
   Run `npm run dev` to start the development server.
 
   
-ABSTRACT
+## ABSTRACT
 
 KrishiSarthi AI is an intelligent agriculture assistance system designed to support farmers by providing timely, accurate, and AI-driven insights related to crop health, soil conditions, and farming decisions. The system leverages artificial intelligence and machine learning techniques to analyze agricultural data and assist farmers in improving productivity, reducing crop losses, and adopting smart farming practices. By integrating modern technologies with real-world agricultural needs, KrishiSarthi AI aims to bridge the gap between farmers and advanced digital solutions.
 
 
-CHAPTER 1: INTRODUCTION
+## CHAPTER 1: INTRODUCTION
 
-1.1 Background
+### 1.1 Background
 Agriculture plays a vital role in the economy, especially in countries like India where a large portion of the population depends on farming for livelihood. Traditional farming methods often rely on manual observation and experience, which may lead to delayed decision-making and reduced crop yield. With the advancement of artificial intelligence, data analytics, and automation, agriculture can be transformed into a smart and efficient sector. KrishiSarthi AI is developed to utilize these modern technologies to assist farmers in making informed decisions.
 
 
-1.2 Problem Statement
+### 1.2 Problem Statement
 Farmers face several challenges such as lack of timely information, difficulty in identifying crop diseases, inefficient resource utilization, and dependency on external experts. These issues often result in crop damage, financial loss, and reduced productivity. There is a need for an intelligent system that can provide real-time agricultural guidance, detect issues early, and offer reliable recommendations in an accessible manner.
 
 
