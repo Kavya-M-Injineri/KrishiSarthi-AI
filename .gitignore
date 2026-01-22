@@ -19,3 +19,6 @@ datasets/
 
 # OS
 .DS_Store
+
+.env
+database.db
