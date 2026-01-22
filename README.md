@@ -7,23 +7,28 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
   
 ABSTRACT
 
 KrishiSarthi AI is an intelligent agriculture assistance system designed to support farmers by providing timely, accurate, and AI-driven insights related to crop health, soil conditions, and farming decisions. The system leverages artificial intelligence and machine learning techniques to analyze agricultural data and assist farmers in improving productivity, reducing crop losses, and adopting smart farming practices. By integrating modern technologies with real-world agricultural needs, KrishiSarthi AI aims to bridge the gap between farmers and advanced digital solutions.
+
 
 CHAPTER 1: INTRODUCTION
 
 1.1 Background
 Agriculture plays a vital role in the economy, especially in countries like India where a large portion of the population depends on farming for livelihood. Traditional farming methods often rely on manual observation and experience, which may lead to delayed decision-making and reduced crop yield. With the advancement of artificial intelligence, data analytics, and automation, agriculture can be transformed into a smart and efficient sector. KrishiSarthi AI is developed to utilize these modern technologies to assist farmers in making informed decisions.
 
+
 1.2 Problem Statement
 Farmers face several challenges such as lack of timely information, difficulty in identifying crop diseases, inefficient resource utilization, and dependency on external experts. These issues often result in crop damage, financial loss, and reduced productivity. There is a need for an intelligent system that can provide real-time agricultural guidance, detect issues early, and offer reliable recommendations in an accessible manner.
+
 
 CHAPTER 2: AIMS AND OBJECTIVES
 
 2.1 Aim
 The main aim of KrishiSarthi AI is to develop an AI-powered agricultural assistant that helps farmers monitor crop health, detect problems early, and make data-driven farming decisions to improve yield and sustainability.
+
 
 2.2 Objectives
 To provide intelligent assistance for crop monitoring and management
@@ -31,6 +36,7 @@ To detect crop-related issues using AI-based detection techniques
 To reduce dependency on manual expert consultation
 To support farmers with accurate and timely agricultural insights
 To promote smart and technology-driven farming practices
+
 
 CHAPTER 3: SYSTEM ARCHITECTURE
 
@@ -52,6 +58,7 @@ Includes detection, classification, and prediction models
 Data Layer
 Stores agricultural data, user data, and model outputs
 Supports future learning and improvements
+
 
 CHAPTER 4: TECHNOLOGY STACK
 
@@ -196,6 +203,7 @@ Browser Developer Tools
 PyTorch model weight files (.pth)
 Organized directory structure
 
+
 CHAPTER 5: FUNCTIONAL MODULES (CORE CONCEPTS)
 
 KrishiSarthi AI consists of the following core functional modules:
@@ -215,6 +223,7 @@ User Interaction Module
 Enables easy communication between farmer and system
 Designed for simplicity and usability
 
+
 CHAPTER 6: REAL-WORLD DEPLOYMENT AND USE CASES
 
 Real-World Deployment
@@ -226,6 +235,7 @@ Early identification of crop health issues
 Agricultural students using the system for learning
 Supporting precision farming practices
 Assisting rural farmers with limited expert access
+
 
 CHAPTER 7: CONCLUSION
 
