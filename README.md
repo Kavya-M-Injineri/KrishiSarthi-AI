@@ -1,4 +1,4 @@
-# Eco-Themed Farming Platform: KrishiSarthi AI
+# Eco-Themed Farming Platform: KrishiSarthi AI 
 
 This is a code bundle for the **Eco-Themed Farming Platform**. The original project is available at: [Figma Design Link](https://www.figma.com/design/sfoBok2mv3LvibIiv5T3Je/Eco-Themed-Farming-Platform)
 
